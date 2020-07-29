@@ -1,0 +1,14 @@
+{
+  "name": "437483300f2989e7",
+  "main": "437483300f2989e7@209.js",
+  "version": "209.0.0",
+  "homepage": "https://observablehq.com/d/437483300f2989e7",
+  "author": {
+    "name": "esmcrms",
+    "url": "https://observablehq.com/@esmcrms"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
